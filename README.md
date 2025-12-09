@@ -4,7 +4,7 @@ This repository focuses on **driving world models (DWM)** with an emphasis on th
 
 [[**Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook**](https://doi.org/10.36227/techrxiv.176523308.84756413/v1)]
 
-## ⭐ Citation
+## Citation
 
 If you find this repository or the survey useful, please consider ⭐ this repo and citing the paper.
 
@@ -19,7 +19,7 @@ If you find this repository or the survey useful, please consider ⭐ this repo 
 }
 ```
 
-## 💖 Paper Recommendations 
+## Paper Recommendations 
 
 If you’d like to suggest something, please open an new ISSUE page and (if possible) provide:
 
@@ -32,11 +32,11 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 # 📌 Overview of Contents
 
-- 📄 1. Summary: Paper Information, Task, and Robustness Level
-- 🛡️ 2. Progressive Robustness of Driving World Models
-  - [2.1 Robustness 1.0 – Self-Metrics & Evaluation Protocols]
-  - [2.2 Robustness 2.0 – Contributions to Autonomous Driving Systems]
-  - [2.3 Robustness 3.0 – Open-World Robustness & Future Directions]
+- 📄 1. Summary: Information, Task, and Robustness Level
+- 🛡️ 2. Progressive Robustness Analysis: 1.0, 2.0 and 3.0
+  - 2.1 Robustness 1.0 – Self-Metrics & Evaluation Protocols
+  - 2.2 Robustness 2.0 – Contributions to Autonomous Driving Systems
+  - 2.3 Robustness 3.0 – Open-World Robustness & Future Directions
 
 ---
 
@@ -46,10 +46,10 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 |:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
 | **Vista** | NIPS24 | Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability | [[✓](https://arxiv.org/abs/2405.17398)] | ✗ | [[✓](https://github.com/OpenDriveLab/Vista)] | ✓ | ✓ | ✗ | 2.0 |
 
-
-
 ---
 
-# 📄 2. Progressive Robustness of Driving World Models
+# 📄 2. Progressive Robustness Analysis: 1.0, 2.0 and 3.0
+
+comming soon...
 
 ## 2.1
