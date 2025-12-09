@@ -44,10 +44,9 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 # 📄 1. DWM Summary: Information, Task, and Robustness Rating
 
-|    Information    |           |            |        |      |      | Task       |          |             | Robustness        |
 | Abbreviation      | Venue     | Full Title | Paper  | Page | Code | Generation | Planning | Enhancement | Rating            |
 |:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
-| Vista | NIPS24 | Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability | [[✓](https://arxiv.org/abs/2405.17398)] | - | [[✓](https://github.com/OpenDriveLab/Vista)] | ✓ | ✓ | - | 2.0 |
+| Vista | NIPS24 | Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability | [[✓](https://arxiv.org/abs/2405.17398)] | ✗ | [[✓](https://github.com/OpenDriveLab/Vista)] | ✓ | ✓ | ✗ | 2.0 |
 
 
 
