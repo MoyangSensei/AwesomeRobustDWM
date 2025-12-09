@@ -2,19 +2,22 @@
 
 This repository focuses on **driving world models (DWM)** with an emphasis on their **task taxonomy** and **progressive robustness (Robustness 1.0 → 3.0)**, base on the survey:
 
-**“Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook”**
+**“Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook”**[
+https://doi.org/10.36227/techrxiv.176523308.84756413/v1]
 
 ## ⭐ Citation
 
 If you find this repository or the survey useful, please consider ⭐ this repo and citing the paper.
 
 ```bibtex
-@article{Jia2025ProgressiveDWM,
-  title   = {Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook},
+@article{jia2025progressive,
+  title   = {{Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook}},
   author  = {Feiyang Jia and Caiyan Jia and Ziying Song and Zhicheng Bao and Lin Liu and Shaoqing Xu and Yan Gong and Lei Yang and Xinyu Zhang and Bin Sun and Xiaoshuai Hao and Long Chen and Yadan Luo},
   journal = {TechRxiv},
   year    = {2025},
-  note    = {Preprint}
+  note    = {preprint},
+  doi     = {10.36227/techrxiv.176523308.84756413/v1},
+  url     = {[https://www.techrxiv.org/users/1003906/articles/1364209-progressive-robustness-aware-world-models-in-autonomous-driving-a-review-and-outlook](https://www.techrxiv.org/users/1003906/articles/1364209-progressive-robustness-aware-world-models-in-autonomous-driving-a-review-and-outlook)}
 }
 ```
 
