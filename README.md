@@ -42,7 +42,7 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 ---
 
-# 📄 1. DWM Summary: Information, Task, and Robustness Rating
+# 📄 1. Summary: Information, Task, and Robustness Level
 
 | Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
 |:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
