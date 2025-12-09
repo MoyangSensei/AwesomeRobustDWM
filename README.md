@@ -15,8 +15,7 @@ If you find this repository or the survey useful, please consider ⭐ this repo 
   journal = {TechRxiv},
   year    = {2025},
   note    = {preprint},
-  doi     = {10.36227/techrxiv.176523308.84756413/v1},
-  url     = {[https://www.techrxiv.org/users/1003906/articles/1364209-progressive-robustness-aware-world-models-in-autonomous-driving-a-review-and-outlook](https://www.techrxiv.org/users/1003906/articles/1364209-progressive-robustness-aware-world-models-in-autonomous-driving-a-review-and-outlook)}
+  doi     = {10.36227/techrxiv.176523308.84756413/v1}
 }
 ```
 
@@ -24,7 +23,7 @@ If you find this repository or the survey useful, please consider ⭐ this repo 
 
 If you’d like to suggest something, please open an new ISSUE page and (if possible) provide:
 
-1. An **online link** to the paper / code repository / project homepage 
+1. **Online link** to the paper / project homepage / code repository. 
 2. The suggested **category**, following this repo:
    - Task: Generation / Planning / Enhancement
    - Robustness level: Robustness 1.0 / 2.0 / 3.0
@@ -33,8 +32,8 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 # 📌 Overview of Contents
 
-- [🧭 1. DWM Summary: Paper Information, Task, and Robustness Rating][]
-- [🛡️ 2. Progressive Robustness of Driving World Models]
+- 📄 1. Summary: Paper Information, Task, and Robustness Level
+- 🛡️ 2. Progressive Robustness of Driving World Models
   - [2.1 Robustness 1.0 – Self-Metrics & Evaluation Protocols]
   - [2.2 Robustness 2.0 – Contributions to Autonomous Driving Systems]
   - [2.3 Robustness 3.0 – Open-World Robustness & Future Directions]
