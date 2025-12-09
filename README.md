@@ -2,7 +2,7 @@
 
 This repository focuses on **driving world models (DWM)** with an emphasis on their **task taxonomy** and **progressive robustness (Robustness 1.0 → 3.0)**, base on the survey:
 
-[Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook(https://doi.org/10.36227/techrxiv.176523308.84756413/v1)]
+[[**Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook**](https://doi.org/10.36227/techrxiv.176523308.84756413/v1)]
 
 ## ⭐ Citation
 
