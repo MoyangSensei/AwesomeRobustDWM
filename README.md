@@ -34,10 +34,7 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 # 📌 Overview of Contents
 
-- [🧭 1. Task Taxonomy of Driving World Models][]
-  - [1.1 Generation]
-  - [1.2 Planning]
-  - [1.3 Enhancement]
+- [🧭 1. DWM Summary: Paper Information, Task, and Robustness Rating][]
 - [🛡️ 2. Progressive Robustness of Driving World Models]
   - [2.1 Robustness 1.0 – Self-Metrics & Evaluation Protocols]
   - [2.2 Robustness 2.0 – Contributions to Autonomous Driving Systems]
@@ -45,9 +42,18 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 ---
 
-# 📄 1. Task Taxonomy of Driving World Models
+# 📄 1. DWM Summary: Paper Information, Task, and Robustness Rating
 
-## 1.1
+| Paper Information |           |            | Task       |          |             | Robustness|
+| Abbreviation      | Venue     | Full Title | Generation | Planning | Enhancement | Rating|
+|:-----------------:|:---------:|:-----------|:----------:|:--------:|:-----------:|:-----------------:|
+
+
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
 
 ---
 
