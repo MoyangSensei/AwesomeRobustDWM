@@ -2,8 +2,8 @@
 
 This repository focuses on **driving world models (DWM)** with an emphasis on their **task taxonomy** and **progressive robustness (Robustness 1.0 → 3.0)**, base on the survey:
 
-**“Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook”**[
-https://doi.org/10.36227/techrxiv.176523308.84756413/v1]
+[**“Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook”**
+(https://doi.org/10.36227/techrxiv.176523308.84756413/v1)]
 
 ## ⭐ Citation
 
@@ -46,7 +46,7 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 | Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
 |:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
-| Vista | NIPS24 | Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability | [[✓](https://arxiv.org/abs/2405.17398)] | ✗ | [[✓](https://github.com/OpenDriveLab/Vista)] | ✓ | ✓ | ✗ | 2.0 |
+| **Vista** | NIPS24 | Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability | [[✓](https://arxiv.org/abs/2405.17398)] | ✗ | [[✓](https://github.com/OpenDriveLab/Vista)] | ✓ | ✓ | ✗ | 2.0 |
 
 
 
