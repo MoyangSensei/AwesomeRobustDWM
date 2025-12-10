@@ -44,9 +44,9 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 **2022**
 | Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
 |:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
-| **Iso-Dream** | NIPS2022 | Iso-dream: Isolating and leveraging noncontrollable visual dynamics in world models | [[✓]()] | ✗ | [[✓]()] | ✓ | ✓ | ✗ | 2.0 |
-| **SEM2** | NIPS2022 | Model-based imitation learning for urban driving | [[✓]()] | ✗ | [[✓]()] | ✓ | ✓ | ✗ | 2.0 |
-| **MILE** | NIPS2022 | SEM2: Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model | [[✓]()] | ✗ | [[✓]()] | ✓ | ✓ | ✗ | 2.0 |
+| **Iso-Dream** | NIPS2022 | Iso-dream: Isolating and leveraging noncontrollable visual dynamics in world models | [[✓](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9316769afaaeeaad42a9e3633b14e801-Abstract-Conference.html)] | ✗ | [[✓](https://github.com/panmt/Iso-Dream)] | ✓ | ✓ | ✗ | 2.0 |
+| **SEM2** | NIPS2022 | Model-based imitation learning for urban driving | [[✓](https://arxiv.org/abs/2210.04017)] | ✗ | ✗ | ✓ | ✓ | ✗ | 2.0 |
+| **MILE** | NIPS2022 | SEM2: Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model | [[✓](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)] | ✗ | [[✓](https://github.com/wayveai/mile)] | ✓ | ✓ | ✗ | 2.0 |
 
 **2023**
 | Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
