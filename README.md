@@ -58,7 +58,7 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 **2024**
 | Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
-|:----------:|:----------:|:--------------------------------------:|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
+|:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
 | **SEM2** | TITS | Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model | [[✓](https://ieeexplore.ieee.org/abstract/document/10538211/)] | ✗ | [[✓](https://github.com/TRAILab/SEM2)] | ✓ | ✓ | ✗ | 2.0 |
 | **Vista** | NeurIPS 2024 | Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability | [[✓](https://arxiv.org/abs/2405.17398)] | ✗ | [[✓](https://github.com/OpenDriveLab/Vista)] | ✓ | ✓ | ✗ | 2.0 |
 | **SceneDiffuser** | NeurIPS 2024 | SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout | [[✓](https://arxiv.org/abs/2412.12129)] | ✗ | [[✓](https://github.com/alipay/SceneDiffuser)] | ✓ | ✓ | ✗ | 2.0 |
@@ -118,8 +118,8 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 | **DriveDreamer-2** | arXiv 2024.3 | DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation | [[✓](https://arxiv.org/abs/2403.06845)] | ✗ | [[✓](https://drivedreamer2.github.io/)] | ✓ | ✗ | ✓ | 2.0 |
 
 **2025**
-| Abbr. | Pub. | Full Title | Paper | Page | Code | Gene. | Plan. | Enh. | Lv. |
-| :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
+|:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
 | **HERMES** | ICCV 2025 | HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation | [[✓](https://arxiv.org/abs/2505.16394)] | [[✓](https://lmd0311.github.io/HERMES/)] | [[✓](https://github.com/LMD0311/HERMES)] | ✓ | ✓ | ✗ | 2.0 |
 | **InfiniCube** | ICCV 2025 | InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models | [[✓](https://arxiv.org/abs/2412.03934)] | [[✓](https://research.nvidia.com/labs/toronto-ai/infinicube/)] | ✗ | ✓ | ✗ | ✗ | 2.0 |
 | **DiST-4D** | ICCV 2025 | DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation | [[✓](https://arxiv.org/abs/2503.15208)] | [[✓](https://royalmelon0505.github.io/DiST-4D/)] | ✗ | ✓ | ✗ | ✗ | 2.0 |
