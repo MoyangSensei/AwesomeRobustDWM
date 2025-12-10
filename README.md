@@ -58,7 +58,7 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 **2024**
 | Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
-|:----------:|:----------------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
+|:----------:|:----------:|:--------------------------------------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
 | **SEM2** | TITS | Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model | [[✓](https://ieeexplore.ieee.org/abstract/document/10538211/)] | ✗ | [[✓](https://github.com/TRAILab/SEM2)] | ✓ | ✓ | ✗ | 2.0 |
 | **Vista** | NeurIPS 2024 | Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability | [[✓](https://arxiv.org/abs/2405.17398)] | ✗ | [[✓](https://github.com/OpenDriveLab/Vista)] | ✓ | ✓ | ✗ | 2.0 |
 | **SceneDiffuser** | NeurIPS 2024 | SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout | [[✓](https://arxiv.org/abs/2412.12129)] | ✗ | [[✓](https://github.com/alipay/SceneDiffuser)] | ✓ | ✓ | ✗ | 2.0 |
