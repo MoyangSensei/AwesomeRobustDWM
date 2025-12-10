@@ -97,6 +97,7 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 |   **Popov et al.**   | arXiv 2024.09 | Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models | [[✓](https://arxiv.org/abs/2409.16663)] |                                      ✗                                      |                                               ✗                                               |  ✓  |  ✓  |  ✗  | 2.0 |
 |   **Think2Drive**   |   ECCV 2024   | Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving      | [[✓](https://arxiv.org/abs/2402.16720)] |                 ✗                 |                          ✗                        |  ✓  |  ✓  |  ✗  | 2.0 |
 |       **GUMP**       |   ECCV 2024   | Solving Motion Planning Tasks with a Scalable Generative Model                                                                    | [[✓](https://arxiv.org/abs/2407.02797)] |                  ✗                  |                               [[✓](https://github.com/HorizonRobotics/GUMP/)]                               |  ✓  |  ✓  |  ✗  | 2.0 |
+
 **2025**
 | Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
 |:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
