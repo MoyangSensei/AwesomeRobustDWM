@@ -125,9 +125,9 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 | **DiST-4D** | ICCV25 | 4D Driving Scene Generation With Stereo Forcing | [[✓](https://arxiv.org/abs/2509.20251)] | [[✓](https://royalmelon0505.github.io/DiST-4D/)] | [[✓](https://github.com/royalmelon0505/dist4d)] | ✓ | ✗ | ✗ | 2.0 |
 | **PhiGensis** | arXiv25 | 4D Driving Scene Generation With Stereo Forcing | [[✓](https://arxiv.org/abs/2509.20251)] | [[✓](https://jiangxb98.github.io/PhiGensis/)] | [[✓](https://github.com/LuPaoPao/PhiGensis)] | ✓ | ✓ | ✓ | 2.0 |
 | **EOT-WM** | arXiv25 | Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space | [[✓](https://arxiv.org/abs/2503.09215)] | ✗ | ✗ | ✓ | ✗ | ✗ | 2.0 |
-| **BEVWorld--** | ICLR25 | BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space | [[✓](https://arxiv.org/abs/2407.05679)] | ✗ | [[✓](https://github.com/zympsyche/BevWorld)] | ✓ | ✓ | ✓ | 2.0 |
+| **BEVWorld** | ICLR25 | BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space | [[✓](https://arxiv.org/abs/2407.05679)] | ✗ | [[✓](https://github.com/zympsyche/BevWorld)] | ✓ | ✓ | ✓ | 2.0 |
 | **UniScene** | CVPR25 | Unified Occupancy-centric Driving Scene Generation | [[✓](https://arxiv.org/abs/2412.05435)] | [[✓](https://arlo0o.github.io/uniscene/)] | [[✓](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation)] | ✓ | ✗ | ✓ | 2.0 |
-| **Ao et al.** | ICCVW25 | — | [[✓](https://arxiv.org/abs/2509.11959)] | ✗ | ✗ | ✓ | ✗ | ✗ | 2.0 |
+| **Ao et al.** | ICCVW25 | Learning to Generate 4D LiDAR Sequences | [[✓](https://arxiv.org/abs/2509.11959)] | ✗ | ✗ | ✓ | ✗ | ✗ | 2.0 |
 | **LiDARCrafter** | arXiv25 | Dynamic 4D World Modeling from LiDAR Sequences | [[✓](https://arxiv.org/abs/2508.03692)] | [[✓](https://lidarcrafter.github.io/)] | [[✓](https://github.com/worldbench/LiDARCrafter)] | ✓ | ✓ | ✗ | 2.0 |
 | **LidarDM** | ICRA25 | LidarDM: LiDAR Diffusion Model | [[✓](https://arxiv.org/abs/2409.07463)] | ✗ | ✗ | ✓ | ✗ | ✓ | 2.0 |
 | **HERMES** | ICCV25 | A Unified Self-Driving World Model | [[✓](https://arxiv.org/abs/2505.16394)] | [[✓](https://lmd0311.github.io/HERMES/)] | [[✓](https://github.com/LMD0311/HERMES)] | ✓ | ✓ | ✗ | 2.0 |
