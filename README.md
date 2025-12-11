@@ -164,6 +164,8 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 
 # 📄 2. Progressive Robustness Analysis: 1.0, 2.0 and 3.0
 
+![个人头像](fig/Table3.png)
+
 comming soon...
 
 ## 2.1
