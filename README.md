@@ -47,18 +47,10 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 | **Iso-Dream** | NIPS2022 | Iso-dream: Isolating and leveraging noncontrollable visual dynamics in world models | [[✓](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9316769afaaeeaad42a9e3633b14e801-Abstract-Conference.html)] | ✗ | [[✓](https://github.com/panmt/Iso-Dream)] | ✓ | ✓ | ✗ | 2.0 |
 | **SEM2** | NIPS2022 | Model-based imitation learning for urban driving | [[✓](https://arxiv.org/abs/2210.04017)] | ✗ | ✗ | ✓ | ✓ | ✗ | 2.0 |
 | **MILE** | NIPS2022 | SEM2: Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model | [[✓](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)] | ✗ | [[✓](https://github.com/wayveai/mile)] | ✓ | ✓ | ✗ | 2.0 |
-
-**2023**
-| Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
-|:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
 | **ADriver-I** | arXiv2311 | ADriver-I: A General World Model for Autonomous Driving | [[✓](https://arxiv.org/abs/2311.13549)] | ✗ | ✗ | ✓ | ✓ | ✗ | 2.0 |
 | **GAIA-1** | arXiv2309 | GAIA-1: A Generative World Model for Autonomous Driving | [[✓](https://arxiv.org/abs/2309.17080)] | ✗ | ✗ | ✓ | ✗ | ✗ | 2.0 |
 | **UniWorld** | arXiv2308 | UniWorld: Autonomous Driving Pre-training via World Models | [[✓](https://arxiv.org/abs/2308.07234)] | ✗ | [[✓](https://github.com/chaytonmin/UniWorld)] | ✓ | ✗ | ✓ | 2.0 |
 | **TrafficBots** | ICRA23 | TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction | [[✓](https://arxiv.org/abs/2303.04116)] | ✗ | [[✓](https://github.com/SysCV/TrafficBots)] | ✓ | ✓ | ✗ | 2.0 |
-
-**2024**
-| Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
-|:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
 |   **DrivingWorld**   | arXiv 2024.12 | DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT                                         | [[✓](https://arxiv.org/abs/2412.19505)] |                                      ✗                                      |                          [[✓](https://github.com/YvanYin/DrivingWorld)]                          |  ✓  |  ✗  |  ✗  | 2.0 |
 |  **InfinityDrive**  | arXiv 2024.12 | InfinityDrive: Breaking Time Limits in Driving World Models                                                         | [[✓](https://arxiv.org/abs/2412.01522)] | [[✓](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)] |                                               ✗                                               |  ✓  |  ✗  |  ✗  | 2.0 |
 |      **GenAD**      |   CVPR 2024   | Generalized Predictive Model for Autonomous Driving                                                                 | [[✓](https://arxiv.org/abs/2403.09630)] |                                      ✗                                      | [[Data](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file#genad-dataset-opendv-youtube)] |  ✓  |  ✓  |  ✗  | 2.0 |
@@ -97,9 +89,6 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 |   **Popov et al.**   | arXiv 2024.09 | Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models | [[✓](https://arxiv.org/abs/2409.16663)] |                                      ✗                                      |                                               ✗                                               |  ✓  |  ✓  |  ✗  | 2.0 |
 |   **Think2Drive**   |   ECCV 2024   | Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving      | [[✓](https://arxiv.org/abs/2402.16720)] |                 ✗                 |                          ✗                        |  ✓  |  ✓  |  ✗  | 2.0 |
 |       **GUMP**       |   ECCV 2024   | Solving Motion Planning Tasks with a Scalable Generative Model                                                                    | [[✓](https://arxiv.org/abs/2407.02797)] |                  ✗                  |                               [[✓](https://github.com/HorizonRobotics/GUMP/)]                               |  ✓  |  ✓  |  ✗  | 2.0 |
-
-**2025**
-| Abbr.      | Pub.     | Full Title | Paper  | Page | Code | Gene. | Plan. | Enh. | Lv. |
 |:-----------------:|:---------:|:-----------|:------:|:----:|:----:|:----------:|:--------:|:-----------:|:-----------------:|
 |       **GUMP**       |   ECCV 2024   | Solving Motion Planning Tasks with a Scalable Generative Model                                                                    | [[✓](https://arxiv.org/abs/2407.02797)] |                  ✗                  |                               [[✓](https://github.com/HorizonRobotics/GUMP/)]                               |  ✓  |  ✓  |  ✗  | 2.0 |
 |   **Dreamland** |  arXiv2506  | Dreamland: Controllable World Creation with Simulator and Generative Models                                                            |                                                                            [[✓](https://arxiv.org/abs/2506.08006)]                                                                            | [[✓](https://metadriverse.github.io/dreamland/)] |                                 ✗                                  |   ✓   |   ✗   |  ✗   | 2.0 |
