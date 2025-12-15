@@ -196,3 +196,9 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 ## 2.3 Robustness 3.0 – Open-World Robustness & Future Directions
 
 ![Table15](fig/Table15.png)
+
+---
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MoyangSensei/AwesomeRobustDWM&type=date&legend=top-left)](https://www.star-history.com/#MoyangSensei/AwesomeRobustDWM&type=date&legend=top-left)
