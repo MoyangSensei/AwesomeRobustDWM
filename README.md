@@ -10,7 +10,7 @@ If you find this repository or the survey useful, please consider ⭐ this repo 
 
 ```bibtex
 @article{jia2025progressive,
-  title   = {{Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook}},
+  title   = {Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook},
   author  = {Feiyang Jia and Caiyan Jia and Ziying Song and Zhicheng Bao and Lin Liu and Shaoqing Xu and Yan Gong and Lei Yang and Xinyu Zhang and Bin Sun and Xiaoshuai Hao and Long Chen and Yadan Luo},
   journal = {TechRxiv},
   year    = {2025},
@@ -53,7 +53,7 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 |    **TrafficBots**    |  ICRA23  | TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction                                          |                                                           [[✓](https://arxiv.org/abs/2303.04116)]                                                           |                                        ✗                                        |                             [[✓](https://github.com/SysCV/TrafficBots)]                             |  ✓  |  ✓  |  ✗  | 2.0 |
 |   **DrivingWorld**   |  arXiv24  | DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT                                                        |                                                           [[✓](https://arxiv.org/abs/2412.19505)]                                                           |                                        ✗                                        |                            [[✓](https://github.com/YvanYin/DrivingWorld)]                            |  ✓  |  ✗  |  ✗  | 2.0 |
 |   **InfinityDrive**   |  arXiv24  | InfinityDrive: Breaking Time Limits in Driving World Models                                                                        |                                                           [[✓](https://arxiv.org/abs/2412.01522)]                                                           |   [[✓](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)]   |                                                 ✗                                                 |  ✓  |  ✗  |  ✗  | 2.0 |
-|       **GenAD**       |  CVPR24  | GenAD: Generalized Predictive Model for Autonomous Driving                                                                         |                                                           [[✓](https://arxiv.org/abs/2403.09630)]                                                           |                                        ✗                                        | [[dataset](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file#genad-dataset-opendv-youtube)] |  ✓  |  ✓  |  ✗  | 2.0 |
+|       **GenAD**       |  CVPR24  | GenAD: Generalized Predictive Model for Autonomous Driving                                                                         |                                                           [[✓](https://arxiv.org/abs/2403.09630)]                                                           |                                        ✗                                        | [[✓](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file#genad-dataset-opendv-youtube)] |  ✓  |  ✓  |  ✗  | 2.0 |
 |       **TERRA**       |  arXiv24  | ACT-Bench: Towards Action Controllable World Models for Autonomous Driving                                                         |                                                           [[✓](https://arxiv.org/abs/2412.05337)]                                                           |                  [[✓](https://turingmotors.github.io/actbench/)]                  |                           [[✓](https://github.com/turingmotors/ACT-Bench)]                           |  ✓  |  ✓  |  ✗  | 2.0 |
 |       **Vista**       |  NIPS24  | Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability                                        |                                                           [[✓](https://arxiv.org/abs/2405.17398)]                                                           |                                        ✗                                        |                             [[✓](https://github.com/OpenDriveLab/Vista)]                             |  ✓  |  ✓  |  ✗  | 2.0 |
 |  **DINO-Foresight**  |  arXiv24  | DINO-Foresight: Self-Supervised Semantic Foresight for Autonomous Driving                                                          |                                                           [[✓](https://arxiv.org/abs/2412.11673)]                                                           |                                        ✗                                        |                           [[✓](https://github.com/Sta8is/DINO-Foresight)]                           |  ✓  |  ✗  |  ✗  | 2.0 |
@@ -161,22 +161,38 @@ If you’d like to suggest something, please open an new ISSUE page and (if poss
 |     **FUTURIST**     |  arXiv25  | FUTURIST: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers                                     |                                                           [[✓](https://arxiv.org/abs/2501.08303)]                                                           |                                        ✗                                        |                              [[✓](https://github.com/Sta8is/FUTURIST)]                              |  ✓  |  ✗  |  ✗  | 2.0 |
 |     **AD-L-JEPA**     |  arXiv25  | Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data           |                                                           [[✓](https://arxiv.org/abs/2501.04969)]                                                           |                                        ✗                                        |                    [[✓](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)]                    |  ✓  |  ✗  |  ✓  | 2.0 |
 
+---
 
-# 📄 2. Progressive Robustness Analysis: 1.0, 2.0 and 3.0
+# 🛡️ 2. Progressive Robustness Analysis: 1.0, 2.0 and 3.0
+
+## 2.1 Robustness 1.0 – Self-Metrics & Evaluation Protocols
 
 ![Table3](fig/Table3.png)
-![Table4](fig/Table4.png)
-![Table5](fig/Table5.png)
-![Table6](fig/Table6.png)
-![Table7](fig/Table7.png)
-![Table8](fig/Table8.png)
-![Table9](fig/Table9.png)
-![Table10](fig/Table10.png)
-![Table11](fig/Table11.png)
-![Table12](fig/Table12.png)
-![Table13](fig/Table13.png)
-![Table14](fig/Table14.png)
-![Table15](fig/Table15.png)
-comming soon...
 
-## 2.1
+![Table4](fig/Table4.png)
+
+![Table5](fig/Table5.png)
+
+![Table6](fig/Table6.png)
+
+![Table7](fig/Table7.png)
+
+![Table8](fig/Table8.png)
+
+![Table9](fig/Table9.png)
+
+![Table10](fig/Table10.png)
+
+![Table11](fig/Table11.png)
+
+![Table12](fig/Table12.png)
+
+## 2.2 Robustness 2.0 – Contributions to Autonomous Driving Systems
+
+![Table13](fig/Table13.png)
+
+![Table14](fig/Table14.png)
+
+## 2.3 Robustness 3.0 – Open-World Robustness & Future Directions
+
+![Table15](fig/Table15.png)
